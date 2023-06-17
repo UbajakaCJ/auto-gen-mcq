@@ -1,0 +1,6 @@
+gensim
+git+https://github.com/boundinfl/pke.git
+spacy
+bert-extractive-summarizer
+nltk
+pywsd
